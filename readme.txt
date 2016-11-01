@@ -5,3 +5,4 @@ git is useful..
 new branch dev
 bad seg is modified
 now 2016.11.1
+fo test
