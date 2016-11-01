@@ -5,4 +5,4 @@ git is useful..
 new branch dev
 bad seg is modified,but now it sloved
 now 2016.11.1
-fo test
+fo test,and it neeed at least 1 day to finish
