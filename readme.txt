@@ -8,5 +8,6 @@ now 2016.11.1
 fo test,and it neeed at least 1 day to finish
 hehe
 nother:add new function
+delete a line
 add a new line
 today is sun
