@@ -10,3 +10,4 @@ hehe
 nother:add new function
 delete a line
 add a new line
+test
